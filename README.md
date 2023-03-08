@@ -28,3 +28,12 @@ THEN I can save my initials and score
 ![Screenshot 2023-03-07 211310](https://user-images.githubusercontent.com/122414990/223697397-9125f2b5-1587-496a-9f0e-a5579130bc62.png)
 ![Screenshot 2023-03-07 211347](https://user-images.githubusercontent.com/122414990/223697400-51cb40d2-c33a-460f-9aaf-cd6ec13950d9.png)
 ![Screenshot 2023-03-07 211357](https://user-images.githubusercontent.com/122414990/223697417-e260fa56-e255-45ab-998a-81bfe5205434.png)
+
+Github repo:
+
+ https://github.com/mackarimi/coding-quiz  
+ 
+ 
+ Webpage:
+ https://mackarimi.github.io/coding-quiz/
+
